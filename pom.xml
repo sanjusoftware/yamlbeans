@@ -25,9 +25,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<url>scm:git:https://github.com/EsotericSoftware/yamlbeans.git</url>
-		<connection>scm:git:https://github.com/EsotericSoftware/yamlbeans.git</connection>
-		<developerConnection>scm:git:https://github.com/EsotericSoftware/yamlbeans.git</developerConnection>
+		<url>scm:git:https://github.com/sanjusoftware/yamlbeans.git</url>
+		<connection>scm:git:https://github.com/sanjusoftware/yamlbeans.git</connection>
+		<developerConnection>scm:git:https://github.com/sanjusoftware/yamlbeans.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
