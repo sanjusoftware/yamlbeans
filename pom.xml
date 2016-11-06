@@ -10,9 +10,9 @@
 	</parent>
 
 	<name>YamlBeans</name>
-	<groupId>com.esotericsoftware.yamlbeans</groupId>
+	<groupId>com.github.sanjusoftware</groupId>
 	<artifactId>yamlbeans</artifactId>
-	<version>1.12-SNAPSHOT</version>
+	<version>1.11</version>
 
 	<description>Java object graphs, to and from YAML</description>
 	<url>https://github.com/EsotericSoftware/yamlbeans</url>
@@ -124,6 +124,16 @@
 			<timezone>Europe/Paris</timezone>
 			<roles>
 				<role>Maven packager</role>
+			</roles>
+		</contributor>
+		<contributor>
+			<name>Sanjeev Mishra</name>
+			<email>sanjusoftware at gmail dot com</email>
+			<organization>Sanjusoftware</organization>
+			<organizationUrl>http://sanjusoftware.wordpress.com</organizationUrl>
+			<timezone>IST</timezone>
+			<roles>
+				<role>Developer and Maven packager</role>
 			</roles>
 		</contributor>
 	</contributors>
