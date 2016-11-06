@@ -9,10 +9,21 @@
 		<version>7</version>
 	</parent>
 
+	<!--<distributionManagement>-->
+		<!--<snapshotRepository>-->
+			<!--<id>ossrh</id>-->
+			<!--<url>https://oss.sonatype.org/content/repositories/snapshots</url>-->
+		<!--</snapshotRepository>-->
+		<!--<repository>-->
+			<!--<id>ossrh</id>-->
+			<!--<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>-->
+		<!--</repository>-->
+	<!--</distributionManagement>-->
+
 	<name>YamlBeans</name>
 	<groupId>com.github.sanjusoftware</groupId>
 	<artifactId>yamlbeans</artifactId>
-	<version>1.12-SNAPSHOT</version>
+	<version>1.11</version>
 
 	<description>Java object graphs, to and from YAML</description>
 	<url>https://github.com/EsotericSoftware/yamlbeans</url>
